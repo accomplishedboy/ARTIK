@@ -1,0 +1,6 @@
+{
+    "schemaVersion": "1.0",
+    "label": "arm-none-eabi",
+    "version": "4.9-2015q3",
+    "toolPrefix": "arm-none-eabi-"
+}

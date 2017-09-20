@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+repositories/http\:__developer.artik.io_downloads_artik_ide_updates_v1/count=1
+repositories/http\:__developer.artik.io_downloads_artik_ide_updates_v1/enabled=true
+repositories/http\:__developer.artik.io_downloads_artik_ide_updates_v1/name=com.samsung.artik.ide.update
+repositories/http\:__developer.artik.io_downloads_artik_ide_updates_v1/nickname=ARTIK IDE Update Site
+repositories/http\:__developer.artik.io_downloads_artik_ide_updates_v1/suffix=content.xml.xz
+repositories/http\:__developer.artik.io_downloads_artik_ide_updates_v1/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__developer.artik.io_downloads_artik_ide_updates_v1/uri=http\://developer.artik.io/downloads/artik_ide/updates/v1
+repositories/http\:__developer.artik.io_downloads_artik_ide_updates_v1/version=1.0.0
+repositories/http\:__gnuarmeclipse.sourceforge.net_updates/count=1
+repositories/http\:__gnuarmeclipse.sourceforge.net_updates/enabled=true
+repositories/http\:__gnuarmeclipse.sourceforge.net_updates/name=GNU ARM Eclipse repository
+repositories/http\:__gnuarmeclipse.sourceforge.net_updates/nickname=GNU ARM Eclipse Plug-ins
+repositories/http\:__gnuarmeclipse.sourceforge.net_updates/suffix=content.xml.xz
+repositories/http\:__gnuarmeclipse.sourceforge.net_updates/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__gnuarmeclipse.sourceforge.net_updates/uri=http\://gnuarmeclipse.sourceforge.net/updates
+repositories/http\:__gnuarmeclipse.sourceforge.net_updates/version=1.0.0

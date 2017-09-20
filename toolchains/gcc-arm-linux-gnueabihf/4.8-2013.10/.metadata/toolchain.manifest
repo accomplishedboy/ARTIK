@@ -1,0 +1,6 @@
+{
+    "schemaVersion": "1.0",
+    "label": "arm-linux-gnueabihf",
+    "version": "4.8-2013.10",
+    "toolPrefix": "arm-linux-gnueabihf-"
+}

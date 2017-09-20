@@ -1,0 +1,7 @@
+instructions.configure=\
+ org.eclipse.equinox.p2.touchpoint.eclipse.addRepository(location:http${#58}//developer.artik.io/downloads/artik_ide/updates/v1,type:0,name:ARTIK IDE Update Site);\
+ org.eclipse.equinox.p2.touchpoint.eclipse.addRepository(location:http${#58}//developer.artik.io/downloads/artik_ide/updates/v1,type:1,name:ARTIK IDE Update Site);
+ 
+instructions.unconfigure=\
+ org.eclipse.equinox.p2.touchpoint.eclipse.removeRepository(location:http${#58}//developer.artik.io/downloads/artik_ide/updates/v1,type:0,name:ARTIK IDE Update Site);\
+ org.eclipse.equinox.p2.touchpoint.eclipse.removeRepository(location:http${#58}//developer.artik.io/downloads/artik_ide/updates/v1,type:1,name:ARTIK IDE Update Site);

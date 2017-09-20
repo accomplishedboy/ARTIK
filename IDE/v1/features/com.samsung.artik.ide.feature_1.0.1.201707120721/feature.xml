@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.samsung.artik.ide.feature"
+      label="ARTIK IDE Feature"
+      version="1.0.1.201707120721">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.samsung.artik.ide.jre.feature"/>
+   </requires>
+
+   <plugin
+         id="com.samsung.artik.ide"
+         download-size="53"
+         install-size="480"
+         version="1.0.1.201707120721"
+         unpack="false"/>
+
+   <plugin
+         id="com.samsung.artik.ide.build"
+         download-size="11"
+         install-size="24"
+         version="1.0.1.201707120721"
+         unpack="false"/>
+
+   <plugin
+         id="com.samsung.artik.ide.linux"
+         download-size="13"
+         install-size="30"
+         version="1.0.1.201707120721"
+         unpack="false"/>
+
+   <plugin
+         id="com.samsung.artik.ide.core"
+         download-size="501"
+         install-size="580"
+         version="1.0.1.201707120721"
+         unpack="false"/>
+
+   <plugin
+         id="com.samsung.artik.ide.ui"
+         download-size="52"
+         install-size="100"
+         version="1.0.1.201707120721"
+         unpack="false"/>
+
+   <plugin
+         id="com.samsung.artik.ide.tizenrt"
+         download-size="1151"
+         install-size="1402"
+         version="1.0.1.201707120721"
+         unpack="false"/>
+
+</feature>

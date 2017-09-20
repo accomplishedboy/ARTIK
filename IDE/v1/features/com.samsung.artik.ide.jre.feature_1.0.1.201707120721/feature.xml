@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.samsung.artik.ide.jre.feature"
+      label="ARTIK IDE JRE Feature"
+      version="1.0.1.201707120721">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="">
+      %license
+   </license>
+
+</feature>
